@@ -1,0 +1,4 @@
+file://~/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar
+file://~/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.4.jar
+file://~/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.12.4.jar
+file://~/.ivy2/cache/com.chuusai/shapeless_2.12/bundles/shapeless_2.12-2.3.2.jar
